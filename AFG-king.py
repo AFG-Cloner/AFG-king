@@ -34,8 +34,8 @@ import platform
 import base64
 import subprocess
 from concurrent.futures import ThreadPoolExecutor
-os.system('xdg-open https://wa.me/93784352523?text=Wow😲+You+Are+Termux+Master+Mr+Nisar+Ulfat')
-os.system('xdg-open https://www.facebook.com/mahal.wak.315 ')
+os.system('xdg-open https://wa.me/923139974897?text=Wow😲+You+Are+Termux+Master+Mr+Nisar+Ulfat')
+os.system('xdg-open https://www.facebook.com/profile.php?id=100086114061278&mibextid=ZbWKwL ')
 logo = """  
   
 
